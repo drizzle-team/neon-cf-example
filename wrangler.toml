@@ -1,4 +1,3 @@
 name = "neon-cf-demo"
 main = "src/index.ts"
 compatibility_date = "2022-12-09"
-node_compat = true
